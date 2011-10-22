@@ -1,0 +1,1 @@
+A .NET tool to check file check sums. I wanted an open source GUI tool that would work on Linux and windows that would be able to do this. I did not find any in with five minutes on google so I created my own tool. There is no exception handling (it will crash on errors).
